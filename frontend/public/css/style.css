@@ -4,9 +4,13 @@
     
 }
 
+#title-top.menu-line{
+  background-color: rgba(245, 230, 230, 0.7);
+}
+
 .text-top-description{
     background-image: url(../../src/assets/graficocresc.jpg);
-    color:white;
+    color: white;
     padding: 30px;
 }
 
