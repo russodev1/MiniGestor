@@ -1,6 +1,6 @@
 #title-top{
-    background-color: rgba(132, 56, 32, 0.8);
-    display:flex;
+    background-color: rgba(137, 69, 52, 0.7);
+    display: flex;
     
 }
 
@@ -14,8 +14,10 @@
     padding: 30px;
 }
 
+
+
 #title-p{
-    display:block;
+    display:flex;
     padding: 30px;
 }
 
@@ -24,7 +26,7 @@
   border: none;
   cursor: pointer;
   padding: 0;
-  display: block;
+  display: flex;
   
 }
 
